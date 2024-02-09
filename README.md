@@ -1,2 +1,14 @@
 # Artique-Frames-NLP-Enhanced-Online-chatbot
 Artique-Frames: NLP-Enhanced Online Art Delivery chatbot
+#### Artique-Frames Project Summary:
+
+Artique-Frames is an  chatbot designed to  order art painting using leveraging NLP. Utilizing Dialogflow, it interprets user queries with natural language processing, making art selection intuitive and user-friendly. The backend infrastructure is built on FastAPI and MySQL, ensuring robust data management and seamless API interactions for functionalities like order processing and status tracking.
+
+#### Key Components:
+
+MySQL Database: Hosts comprehensive data on paintings, orders, and tracking, providing a solid foundation for the system's data storage and retrieval needs.
+FastAPI Backend: Powers the system's API endpoints, facilitating essential operations such as item insertion, order ID generation, and price calculations.
+Dialogflow Integration: Enables the chatbot to process natural language inputs, allowing for dynamic conversations about art selections and orders.
+Deployment and Integration:
+
+Deployed locally with Uvicorn as the ASGI server and Ngrok for internet exposure, Artique-Frames showcases a practical blend of NLP, web development, and database management. This project not only demonstrates the effective application of NLP in e-commerce but also highlights the integration of various technologies to deliver a user-centric online service
