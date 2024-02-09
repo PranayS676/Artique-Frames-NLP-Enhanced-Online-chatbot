@@ -12,5 +12,5 @@ Hosts comprehensive data on paintings, orders, and tracking, providing a solid f
 Powers the system's API endpoints, facilitating essential operations such as item insertion, order ID generation, and price calculations.
 #####vDialogflow Integration: 
 Enables the chatbot to process natural language inputs, allowing for dynamic conversations about art selections and orders.
-#####Deployment and Integration:
+##### Deployment and Integration:
 Deployed locally with Uvicorn as the ASGI server and Ngrok for internet exposure, Artique-Frames showcases a practical blend of NLP, web development, and database management. This project not only demonstrates the effective application of NLP in e-commerce but also highlights the integration of various technologies to deliver a user-centric online service
