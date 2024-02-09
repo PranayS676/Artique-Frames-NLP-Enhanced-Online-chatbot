@@ -6,7 +6,7 @@ Artique-Frames is an  chatbot designed to  order art painting using leveraging N
 
 #### Key Components:
 
-MySQL Database: Hosts comprehensive data on paintings, orders, and tracking, providing a solid foundation for the system's data storage and retrieval needs.
+MySQL Database: Hosts comprehensive data on paintings, orders, and tracking, providing a solid foundation for the system's data storage and retrieval needs.(The dataset utilized in this project was synthetically generated and is entirely fictional, designed specifically for the purposes of this application. It should be noted that all data points, entities, and scenarios were crafted by the project author to simulate real-world application scenarios without utilizing actual personal or proprietary information.)
 FastAPI Backend: Powers the system's API endpoints, facilitating essential operations such as item insertion, order ID generation, and price calculations.
 Dialogflow Integration: Enables the chatbot to process natural language inputs, allowing for dynamic conversations about art selections and orders.
 Deployment and Integration:
