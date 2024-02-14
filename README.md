@@ -1,4 +1,7 @@
 # Artique-Frames-NLP-Enhanced-Online-chatbot
+
+try to execute in telegram with this link - https://t.me/ArtiqueFrames_bot (it will place the order and give you tracking ID. the words you are giving are processed using NLP and give response according.Disclaimer: it you are getting wrong reply it is duw to i am  not running it from my side. try during 10:00 am EST - 12:00 am EST)
+
 Artique-Frames: NLP-Enhanced Online Art Delivery chatbot
 #### Artique-Frames Project Summary:
 
